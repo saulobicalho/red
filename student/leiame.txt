@@ -1,0 +1,1 @@
+exemplo em https://thenucleargeeks.com/2019/02/15/python-web-services-using-flask/  até agora n funciona

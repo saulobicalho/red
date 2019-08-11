@@ -1,0 +1,1 @@
+exemplo em https://stackoverflow.com/questions/29461615/the-method-is-not-allowed-for-the-requested-url-in-flask/29469152, n funciona

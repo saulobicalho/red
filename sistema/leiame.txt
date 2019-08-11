@@ -1,0 +1,1 @@
+exemplo em https://www.roytuts.com/python-login-and-logout-example/ , até o momento n funciona

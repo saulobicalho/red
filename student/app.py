@@ -20,13 +20,10 @@ Student = [
  'age': '26'
 }
 ]
-@app.route('/student/', methods=['GET'])
+@app.route('/student/', methods=['GET','POST'])
 def get_Student():
    return jsonify({'tasks': Student})
-if __name__ == '__main__':
-        app.run()
 
-@app.route('/student/', methods=['POST'])
 def add_task():
     student = {
         'id': Student[-1]['id'] + 1,
@@ -36,3 +33,7 @@ def add_task():
 }
     Student.append(student)
     return jsonify({'student': student}), 201
+
+
+if __name__ == '__main__':
+    app.run()
