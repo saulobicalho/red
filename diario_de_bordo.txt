@@ -1,0 +1,15 @@
+Este projeto é para aprender a mexer com redes, para matéria na faculdade.
+A princípio, é preciso aprender a manipular sockets em python, mas se deseja ultrapassar isto com vistas ao desenvolvimento de aplicações.
+O livro-base tem abordagem top-down, iniciando a tratar de temas de aplicações web.
+A pasta kurchap2 trata de exemplos do capítulo 2 do livro de Kurose, com exemplos de socket em UDP e TCP.
+A pasta henuge trata de exemplo em internet de aplicação em python com flask, usando conexão com bd mysql.
+A introdução ao trabalho com MySQL é difícil, o que se agrava com a abordagem deficiente dos sites em tratar do tema, para iniciantes.
+O site de onde se tira o exemplo em questão, que está especificado no arquivo leiame da respectiva pasta, apenas informa para que se crie o banco de dados,
+usando comandos SQL (create ...), porém não especifica como instalar e configurar o MySQL na máquina.
+Pesquisando como se faz a instalação do MySQL, acesso o site deste, onde há uma quantidade grande de opções para download, sem maiores instruções.
+A seleção de opção de instalação do MySQL foi a primeira (Installer), porém durante a instalação acusa-se a falta de alguns pacotes que requerem uma inserção
+manual. Entre esses, encontra algo como ConnectorPython. Recomenda-se a instalação deste último, para prosseguir com a instalação do MySQL.
+Sou redirecionado para site oficial do Python, onde baixo o istalador da nova versão da linguagem. Ao abrir este arquivo, seleciono a opção de atualização da
+linguagem, uma vez que a mesma já se encontra em uso no sistema.
+Ao atualizar a linguagem, percebe-se que a mesma pára de funcionar, para as aplicações antes testadas, nesta pasta (red).
+A mensagem em cmd é que python não é comando interno, o que se resolve, segundo a internet, por informação de caminho de instalação no path da variável de ambiente.
