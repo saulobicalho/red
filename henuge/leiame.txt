@@ -1,0 +1,1 @@
+exemplo de https://www.codementor.io/adityamalviya/python-flask-mysql-connection-rxblpje73, flask w/ mysql conn.
