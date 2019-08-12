@@ -1,5 +1,5 @@
 https://realpython.com/introduction-to-flask-part-1-setting-up-a-static-site/ parte 1 ok
-https://realpython.com/introduction-to-flask-part-2-creating-a-login-page/ parte 2
+https://realpython.com/introduction-to-flask-part-2-creating-a-login-page/ parte 2 ok
 flask assume que na ausencia de especificação se deseja trabalhar com a requisição GET, por isso ele direciona para Welcome
 se quer ir p login, precisa especificar uma requisição POST, o que é feito pela função login()
 o funcionamento da f. login() se baseia em verificar se credenciais enviadas são verdadeiras
